@@ -1,0 +1,7 @@
+public class Exercise1
+{
+    public static void Main( )
+    {
+         System.Console.WriteLine("My name is prajeeth BG, I am Contributing in Hacktober Open Source Project");
+    }
+}
